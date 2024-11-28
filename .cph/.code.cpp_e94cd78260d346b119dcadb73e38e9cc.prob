@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"c:\\projects\\C++ code problems\\code.cpp","tests":[{"id":1722390186665,"input":"1\n[1,[2,3],[4,[5,6]] ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\projects\\C++ code problems\\code.cpp","group":"local","local":true}

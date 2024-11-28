@@ -1,0 +1,1 @@
+{"name":"Local: MaximumSwap","url":"c:\\projects\\C++ code problems\\leetcode\\MaximumSwap.cpp","tests":[{"id":1729132565699,"input":"3\n2736\n9973\n98368","output":"7236\n9973\n98863"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\projects\\C++ code problems\\leetcode\\MaximumSwap.cpp","group":"local","local":true}
